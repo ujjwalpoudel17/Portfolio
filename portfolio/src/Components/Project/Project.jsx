@@ -10,7 +10,7 @@ function Project() {
           className="mb-20 animate-fade-in-up"
           style={{ animationDelay: '0.2s' }}
         >
-          <h2 className="text-3xl sm:text-4xl font-bold mb-5 text-center md:text-left">
+          <h2 className="text-3xl sm:text-4xl font-bold mb-5 text-center md:text-left mt-30">
             Projects
           </h2>
           <p className="mb-10 text-center md:text-left text-gray-700 max-w-3xl">
