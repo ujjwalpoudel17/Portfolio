@@ -53,7 +53,6 @@ function Contact() {
                   <div className="ml-4">
                     <h3 className="mb-2 text-lg font-medium">Contact</h3>
                     <p className="">Phone: +9779867820238</p>
-                    <p className="">Fax: +90 312 939 75 15-16</p>
                     <p className="">Mail: ujjwalpoudel999@gmail.com</p>
                   </div>
                 </li>
