@@ -7,7 +7,7 @@ function Home() {
      
       <div className="flex-shrink-0 flex justify-center md:justify-start w-full md:w-auto">
         <img
-          src="https://scontent.fktm24-1.fna.fbcdn.net/v/t39.30808-6/584618062_826695796742497_4398777367123113209_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eJkY3oXdjIIQ7kNvwG_VXzL&_nc_oc=AdmGGWk0G5N3UmaMaphoP1Zz1E6y9qNaBu5hpfA2LIq3SCu-p1Z4QXzr-a-h7uU5YIT93bMquUhjDxhP6Q4s8kp_&_nc_zt=23&_nc_ht=scontent.fktm24-1.fna&_nc_gid=JltmxZ09yARfapDSa5IxNQ&oh=00_AfhgJin5snrKA9_wwEVv4ajM4f1VTytBsR-r7z2p-1QJpg&oe=6931B93A"
+          src="https://scontent.fktm24-1.fna.fbcdn.net/v/t39.30808-6/584618062_826695796742497_4398777367123113209_n.jpg?stp=dst-jpg_p526x296_tt6&_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eJkY3oXdjIIQ7kNvwG_VXzL&_nc_oc=AdmGGWk0G5N3UmaMaphoP1Zz1E6y9qNaBu5hpfA2LIq3SCu-p1Z4QXzr-a-h7uU5YIT93bMquUhjDxhP6Q4s8kp_&_nc_zt=23&_nc_ht=scontent.fktm24-1.fna&_nc_gid=uQH-gxfy_3inhqWRt8FSwQ&oh=00_AfjdsmPdrpsIDKylw4DB97ZMUgtbvg5nn-nPKpZnlDDKBQ&oe=6931B93A"
           alt="Ujjwal Poudel"
           className="
             w-60 h-60 
