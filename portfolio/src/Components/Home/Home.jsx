@@ -7,7 +7,7 @@ function Home() {
      
       <div className="flex-shrink-0 flex justify-center md:justify-start w-full md:w-auto">
         <img
-          src="https://avatars.githubusercontent.com/u/133738668?v=4"
+          src="https://scontent.fktm24-1.fna.fbcdn.net/v/t39.30808-6/584618062_826695796742497_4398777367123113209_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=eJkY3oXdjIIQ7kNvwG_VXzL&_nc_oc=AdmGGWk0G5N3UmaMaphoP1Zz1E6y9qNaBu5hpfA2LIq3SCu-p1Z4QXzr-a-h7uU5YIT93bMquUhjDxhP6Q4s8kp_&_nc_zt=23&_nc_ht=scontent.fktm24-1.fna&_nc_gid=JltmxZ09yARfapDSa5IxNQ&oh=00_AfhgJin5snrKA9_wwEVv4ajM4f1VTytBsR-r7z2p-1QJpg&oe=6931B93A"
           alt="Ujjwal Poudel"
           className="
             w-60 h-60 
