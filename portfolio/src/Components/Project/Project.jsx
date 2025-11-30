@@ -4,7 +4,7 @@ function Project() {
   return (
     <div className="flex flex-col min-h-screen bg-gray-50">
       <main className="container mx-auto flex-grow px-4 sm:px-6 lg:px-8 py-16">
-        {/* Projects Section */}
+        
         <section
           id="projects"
           className="mb-20 animate-fade-in-up"
@@ -17,9 +17,9 @@ function Project() {
             Here are some of the projects that showcase my skills in web development, demonstrating my ability to build responsive, accessible, and modern applications using various technologies.
           </p>
 
-          {/* Responsive Grid */}
+        
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
-            {/* Project Card */}
+           
             <div className="bg-white p-6 sm:p-8 rounded-2xl shadow-lg hover:shadow-2xl border border-gray-200 transition-transform transform hover:scale-105">
               <h3 className="text-xl font-semibold mb-2">Responsive Home Rental System</h3>
               <p className="mb-4 text-gray-600">
@@ -72,7 +72,7 @@ function Project() {
           className="animate-fade-in-up mt-20"
           style={{ animationDelay: '0.4s' }}
         >
-          {/* Contact section placeholder */}
+        
         </section>
       </main>
     </div>
