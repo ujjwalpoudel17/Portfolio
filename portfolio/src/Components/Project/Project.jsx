@@ -15,7 +15,7 @@ function Project() {
             Here are some of the projects that showcase my skills in web development, demonstrating my ability to build responsive, accessible, and modern applications using various technologies.
           </p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            <div className="bg-white p-10 rounded-lg shadow-xl hover:shadow-lg transition-shadow duration-300 transform hover:scale-105">
+            <div className="bg-white p-10 rounded-lg shadow-xl hover:shadow-lg transition-shadow duration-300 transform hover:scale-105 border-1">
               <h3 className="text-xl font-semibold mb-2">Responsive Home Rental System </h3>
               <p className="mb-4">A fully responsive blog platform built with PHP and Tailwind CSS.</p>
               <a href="#" className="text-primary-light dark:text-primary-dark hover:underline transition-colors duration-300">View Project →</a>
