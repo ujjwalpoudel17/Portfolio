@@ -1,4 +1,6 @@
 import React from "react";
+import { Link } from "react-router-dom";
+
 
 function Home() {
   return (
@@ -48,12 +50,13 @@ function Home() {
 
        
         <div className="pt-2">
-          <a
-            href="/Contact"
-            className="inline-block bg-blue-600 text-white px-6 py-3 rounded-full shadow-md hover:bg-blue-700 transition duration-300"
-          >
-            Contact Me
-          </a>
+       <Link
+  to="/contact"
+  className="inline-block bg-blue-600 text-white px-6 py-3 rounded-full shadow-md hover:bg-blue-700 transition duration-300"
+>
+  Contact Me
+</Link>
+
         </div>
       </div>
     </div>
