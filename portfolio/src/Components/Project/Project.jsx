@@ -40,11 +40,6 @@ function Project() {
         >
         </section>
       </main>
-
-      {/* Footer */}
-      <footer className="bg-gray-200 text-center py-4 mt-auto">
-        © 2025 Ujjwal Poudel. All rights reserved.
-      </footer>
     </div>
   )
 }
