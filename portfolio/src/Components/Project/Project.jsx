@@ -20,12 +20,12 @@ function Project() {
               <p className="mb-4">A fully responsive blog platform built with PHP and Tailwind CSS.</p>
               <a href="#" className="text-primary-light dark:text-primary-dark hover:underline transition-colors duration-300">View Project →</a>
             </div>
-            <div className="bg-white p-10 rounded-lg shadow-xl hover:shadow-lg transition-shadow duration-300 transform hover:scale-105">
+            <div className="bg-white p-10 rounded-lg shadow-xl border-1">
               <h3 className="text-xl font-semibold mb-2">Responsive Hotel Booking System</h3>
               <p className="mb-4">A Hotel Management System built with Laravel and Tailwind Css.</p>
               <a href="#" className="text-primary-light dark:text-primary-dark hover:underline transition-colors duration-300">View Project →</a>
             </div>
-            <div className="bg-white p-10 rounded-lg shadow-xl hover:shadow-lg transition-shadow duration-300 transform hover:scale-105">
+            <div className="bg-white p-10 rounded-lg shadow-xl border-1">
               <h3 className="text-xl font-semibold mb-2">E-commerce Website</h3>
               <p className="mb-4">A full-stack e-commerce platform built with Laravel/PHP and Tailwind Css for Frontend.</p>
               <a href="#" className="text-primary-light dark:text-primary-dark hover:underline transition-colors duration-300">View Project →</a>
